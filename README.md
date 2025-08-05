@@ -1,4 +1,4 @@
-# Francielly Carvalho
+# Francielly Santos Carvalho
 Sou estudante na UFABC, apaixonada por dados, música, gatos e sapos 🐸🎶🐱
 
 - 📚 Estudante de Ciência de dados e Neurociência  
