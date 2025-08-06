@@ -2,7 +2,7 @@
 Sou estudante na UFABC, apaixonada por dados, música, gatos e sapos 🐸🎶🐱
 
 - 📚 Estudante de Ciência de dados e Neurociência  
-- 💻 Apaixonada por criar
+- 💻 Apaixonada por criar coisas novas
 - 🐸 Dona da lojinha de amigurumis @sapinhos_magicos  
 - 📫 Me encontre no [LinkedIn](https://linkedin.com/in/franciellycarvalho)
 
