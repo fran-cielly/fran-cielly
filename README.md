@@ -1,4 +1,4 @@
-# Francielly Santos Carvalho <img src="frog.png" alt="Sapinho 8-bit Badge" width="300px">
+# <img src="frog.png" alt="Sapinho 8-bit Badge" width="300px"> Francielly Carvalho 
 Graduando em Ciência de Dados e entusiasta por tecnologia. Estou construindo uma base sólida em estatística e programação Python através de projetos práticos e desafios de código. Ah, e eu gosto muito de sapos! 🐸
 
 Data Science undergraduate and technology enthusiast. I am building a solid foundation in statistics and Python programming through practical projects and coding challenges. Oh, and I really like frogs! 🐸
