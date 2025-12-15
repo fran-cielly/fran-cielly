@@ -1,10 +1,7 @@
-# Francielly Santos Carvalho
-Sou estudante na UFABC, apaixonada por dados, música, gatos e sapos 🐸🎶🐱
+# Francielly Santos Carvalho <img src="frog.png" alt="Sapinho 8-bit Badge" width="300px">
+Graduando em Ciência de Dados e entusiasta por tecnologia. Estou construindo uma base sólida em estatística e programação Python através de projetos práticos e desafios de código. Ah, e eu gosto muito de sapos! 🐸
 
-- 📚 Estudante de Ciência de dados na UFABC
-- 💻 Apaixonada por criar coisas novas
-- 🐸 Dona da lojinha de amigurumis @sapinhos_magicos  
-- 📫 Me encontre no [LinkedIn](https://linkedin.com/in/franciellycarvalho)
+Data Science undergraduate and technology enthusiast. I am building a solid foundation in statistics and Python programming through practical projects and coding challenges. Oh, and I really like frogs! 🐸
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
